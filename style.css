@@ -1,0 +1,80 @@
+html, body {
+    font-family: "Nunito Sans", sans-serif;
+}
+
+a {
+    color: #22b1ab;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #22b1ab;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #22b1ab;
+    text-decoration: none;
+}
+
+a.btn {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a.btn:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a.btn:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+a.btn:focus { outline: none;}
+
+.user {
+    margin-top: 20px;
+    line-height: 1.2;
+    color: #3f3f3f;
+    font-weight: 400;
+    font-size: 28px;
+    margin-bottom: 0.7rem;
+  }
+
+  .desc {
+    font-size: 18px;
+    /* text-transform: uppercase; */
+    color: #151515;
+    margin-bottom: 10px;
+    font-weight: 300;
+    margin-top: 0;
+  }
+  .profilepic {
+    display: block;
+    margin: 0px auto;
+    width: 170px;
+    height: 170px;
+    border-radius: 85px;
+    box-shadow: 0 0 15px rgba(50, 50, 50, 0.1);
+  }
+  ul.myicons {
+    list-style-type: none;
+    margin-top: 20px;
+    padding-left: 0;
+  }
+
+  ul.myicons li {
+    display: inline;
+    margin: 0 15px;
+  }
+
+  ul.myicons li a {
+    color: #22b1ab;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+  ul.myicons li a:hover {
+    color: #20817c;
+  }
